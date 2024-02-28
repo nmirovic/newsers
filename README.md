@@ -40,7 +40,6 @@
    Posetite GitHub repozitorijum koji želite da klonirate.
    Kliknite na dugme "Code" i kopirajte URL repozitorijuma.
    Otvorite terminal na svom računaru i navigirajte do direktorijuma u koji želite da klonirate repozitorijum.
-   Izvršite sledeću komandu: git clone https://github.com/BrankoSavic12/PISIBP_Projektni_zadatak.git
 
    3.2. Podešavanje WAMP servera i MySQL baze podataka:
 
