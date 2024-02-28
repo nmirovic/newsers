@@ -1,0 +1,9 @@
+.fa-thumbs-up, .fa-thumbs-down{
+    font-size: 20px;
+}
+.fa-thumbs-up:hover{
+    cursor: pointer;
+}
+.fa-thumbs-down:hover{
+    cursor: pointer;
+}
